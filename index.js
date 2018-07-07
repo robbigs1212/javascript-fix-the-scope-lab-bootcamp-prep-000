@@ -1,7 +1,8 @@
  animal = 'dog'
 
-function myAnimal() {
+function myAnimal(animal) {
   var animal = 'cat'
+  animal 
   return animal
   
 }
